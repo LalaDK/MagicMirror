@@ -1,3 +1,6 @@
 [submodule "modules/MMM-WeatherBackground"]
 	path = modules/MMM-WeatherBackground
 	url = git@github.com:LalaDK/MMM-WeatherBackground.git
+[submodule "modules/MMM-CalendarExt3"]
+	path = modules/MMM-CalendarExt3
+	url = git@github.com:LalaDK/MMM-CalendarExt3.git
